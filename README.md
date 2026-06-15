@@ -5,4 +5,5 @@ api used: https://www.themealdb.com/api.php<br>
 the cross-orign problem is solved using CORS<br>
 <h1>How it workd</h1>
 type in any food you wish to search in this example is chicken
-![Uploading image.png…]()
+<img width="1875" height="866" alt="image" src="https://github.com/user-attachments/assets/fa5403f3-7ed4-45f1-974e-6769801017a1" />
+
