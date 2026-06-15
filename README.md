@@ -3,3 +3,6 @@
 <h1>api-used</h1>
 api used: https://www.themealdb.com/api.php<br>
 the cross-orign problem is solved using CORS<br>
+<h1>How it workd</h1>
+type in any food you wish to search in this example is chicken
+![Uploading image.png…]()
